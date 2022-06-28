@@ -11,9 +11,9 @@ I am a DevOps Engineer with 4+ years of experience in automating infrastructure 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Kubernetes operators and new IaC paradigms evolving (declarative vs imperative) around Kubernetes and its tooling ecosystem for OCI-compatible containers (Docker and Podman) or MicroVMs (Firecraker).
+- 🌱 I’m currently learning Kubernetes operators and new IaC paradigms evolving (declarative vs imperative) around Kubernetes and its tooling ecosystem for OCI-compatible containers (Docker and Podman) or MicroVMs (Firecraker)
 - 👯 I’m looking to collaborate on Open Source projects with Docker
-- 🤔 I’m looking for help with business, masters or Ph.D. education education
+- 🤔 I’m looking for help with business, masters or Ph.D. education
 - 💬 Ask me about Arch Linux, Docker, Kubernetes, Terraform, AWS, and more!
 - 📫 How to reach me
   - [twitter://@AmauryOrtega_](https://twitter.com/AmauryOrtega_)
