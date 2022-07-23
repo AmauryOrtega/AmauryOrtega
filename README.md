@@ -42,7 +42,7 @@ Here are some ideas to get you started:
   - 📒 Shell scripting (sh, bash and zsh)
   - 📙 Java
   - 📗 PHP
-  - 📓 JavaScript/Typescript for NodeJS
+  - 📓 JavaScript and Typescript for NodeJS
   - 📕 C/C++
 </details>
 <details>
@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 <details>
   <summary>☁️ Cloud providers</summary>
 
-  - ☁️ AWS
+  - ☁️ AWS ([AWS Certified Cloud practicioner](https://www.credly.com/badges/ca97e4b3-ff86-4229-b922-8e1783ec0230))
   - ☁️ GCP
   - ☁️ Azure
   - ☁️ DigitalOcean
@@ -90,10 +90,22 @@ Here are some ideas to get you started:
 <details>
   <summary>🏗 IaC</summary>
 
-  - 🏗 Trivy, Snyk, SonarQube, Hadolint, and more
-  - 🏗 Terraform with/without Terraform Cloud
-  - 🏗 TFSec, Infracost, and more
-  - 🏗 AWS CDK with NodeJS
+  - 🏗 Terraform ([Hashicorp Certified: Terraform associate](https://www.credly.com/badges/233705e0-4e62-40ea-b4df-a56b148dc2bf))
+    - 🏗 Terraform Cloud
+    - 🏗 Infracost
+  - 🏗 AWS CDK with 📓 JavaScript and 📘 Python 3
+</details>
+<details>
+  <summary>🛡 Security</summary>
+
+  - 🏗 Terraform
+    - 🛡 Trivy
+    - 🛡 TFSec
+  - 🐳 Docker
+    - 🛡 Hadolint
+    - 🛡 Dockerlint
+  - 🛡 Snyk
+  - 🛡 SonarQube
 </details>
 <details>
   <summary>🏗 CI/CD Pipelines</summary>
