@@ -4,7 +4,17 @@
 
 ## Summary
 
-I am a DevOps Engineer with 4+ years of experience in automating infrastructure for enterprise web applications using open source tools.
+DevSecOps Engineer with a passion for engineering, team building and providing solutions with architecture design first.
+
+4+ years analyzing, architecting and implementing automations to build, test, deliver and deploy enterprise web application infrastructure in the cloud with the biggest vendors (AWS, GCP and Azure). Experience covering the entire DevSecOps spectrum using state-of-the-art open source operating systems and tools with SCRUM and GitOps methodologies.
+
+I've worked as a DevOps Engineer with a wide range of projects and industries as co-founder, ex-CTO and leader of a DevOps engineering team in a start-up software agency in Colombia for clients in Europe (Netherlands, United Kingdom and Spain) and America (United States and Colombia). 
+
+I've created, managed and delivered projects that go from simple infrastructures (static sites with global cache distribution networks and virtual machines that autoscale based on traffic) to complex event-driven asynchronous systems that require K8S and cloud specifics services for queues, event distribution, chaos engineering, security policies and SRE monitoring.
+
+Not only that, but I've implemented automations using CI/CD pipelines with GitLab CI, AWS CodePipelines, GitHub Actions, BitBucket pipelines and Azure DevOps for container and non-container workloads for cloud and on-premise locations.
+
+Currently working as a Senior DevOps Engineer and Software-n'-Cloud Architect leading a development team in a software product in the logistics industry.
 
 ## About me
 
