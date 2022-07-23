@@ -106,6 +106,8 @@ Here are some ideas to get you started:
     - 🛡 Dockerlint
   - 🛡 Snyk
   - 🛡 SonarQube
+  - 🛡 GitGuardian
+  - 🛡 LitmusChaos
 </details>
 <details>
   <summary>🏗 CI/CD Pipelines</summary>
