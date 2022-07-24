@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 <details>
   <summary>☁️ Cloud providers</summary>
 
-  - ☁️ AWS ([AWS Certified Cloud practicioner](https://www.credly.com/badges/ca97e4b3-ff86-4229-b922-8e1783ec0230))
+  - ☁️ AWS ([AWS Certified Cloud practitioner](https://www.credly.com/badges/ca97e4b3-ff86-4229-b922-8e1783ec0230))
   - ☁️ GCP
   - ☁️ Azure
   - ☁️ DigitalOcean
