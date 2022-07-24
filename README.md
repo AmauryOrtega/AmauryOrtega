@@ -135,7 +135,7 @@ Here are some ideas to get you started:
   - 💾 PostgreSQL
   - 💾 SQL Server
   - 💾 AWS Aurora
-  - 💾 MongoDB with/witout MongoDB Atlas
+  - 💾 MongoDB with/without MongoDB Atlas
   - 💾 AWS DocumentDB
   - 💾 Redis
   - 💾 SQLite with/without Fly.io
